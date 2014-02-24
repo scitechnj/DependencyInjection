@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MvcApplication1.Controllers.Person>
+
+<table>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Age</th>
+    </tr>
+    @foreach (var person in this.Model)
+    {
+        <tr>
+            <td>@person.FirstName</td>
+            <td>@person.LastName</td>
+            <td>@person.Age</td>
+        </tr>
+    }
+</table>

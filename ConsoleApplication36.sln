@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication36", "ConsoleApplication36\ConsoleApplication36.csproj", "{BE66622C-AC32-4017-AF49-3E8AC32E769D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{B0D0C9FE-BCC2-4240-87FA-47511DBDACBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE66622C-AC32-4017-AF49-3E8AC32E769D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE66622C-AC32-4017-AF49-3E8AC32E769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE66622C-AC32-4017-AF49-3E8AC32E769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE66622C-AC32-4017-AF49-3E8AC32E769D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D0C9FE-BCC2-4240-87FA-47511DBDACBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D0C9FE-BCC2-4240-87FA-47511DBDACBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D0C9FE-BCC2-4240-87FA-47511DBDACBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D0C9FE-BCC2-4240-87FA-47511DBDACBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
